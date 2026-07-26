@@ -1,0 +1,26 @@
+Bazel :
+
+
+
+Install Chocolatey
+
+choco install bazelisk -y
+
+Testing Bazel :
+
+mkdir bazel-demo
+cd bazel-demo
+
+------------------------
+
+✅ Bazelisk
+✅ Bazel 9.2.0
+✅ JDK 21
+✅ PATH configured correctly
+✅ Ready to build Bazel projects
+
+WORKSPACE - Dependency Wokring and Tool chains
+BUILD - Build action available
+
+C:\ProgramData\chocolatey\lib\bazelisk\bazel.exe
+C:\ProgramData\chocolatey\bin\bazel.exe
